@@ -22,7 +22,7 @@ Expected Auxiliary Space: O(1).
 Constraints:
 1 <= |s| <= 10000
 
-https://practice.geeksforgeeks.org/problems/reverse-a-string/1  */
+https://practice.geeksforgeeks.org/problems/reverse-a-string/1 */
 
 // Method :1    TC->O(n)
   
