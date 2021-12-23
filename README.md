@@ -83,6 +83,19 @@ Table of Contents
 •	Simple container(Pair) ,declarations,definition and its function\
 •	Vector and its advantages,declaration,definition, functions
 
+## Day-05
+
+• Lerned about Josephus problem\
+• Dequeue \
+• Function Performed on Dequeue\
+• Set\
+• Function Performed on Set\
+• MultiSet\
+• Function Performed on MultiSet\
+• lower_bound() and upper_bound()\
+• Map
+
+
 
 
 
