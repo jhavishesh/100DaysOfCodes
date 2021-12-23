@@ -16,3 +16,4 @@ class Solution
     }
 };
 
+![Josephus](https://user-images.githubusercontent.com/61939693/147227690-704db814-6279-492f-b181-6bae77bddea3.jpeg)
