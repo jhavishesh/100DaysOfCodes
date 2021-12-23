@@ -15,5 +15,3 @@ class Solution
       return((josephus(n-1,k)+k-1)%n +1); //recursive call to get the safest position.
     }
 };
-
-![Josephus](https://user-images.githubusercontent.com/61939693/147227690-704db814-6279-492f-b181-6bae77bddea3.jpeg)
