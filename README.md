@@ -92,8 +92,20 @@ Table of Contents
 • Function Performed on Set\
 • MultiSet\
 • Function Performed on MultiSet\
-• lower_bound() and upper_bound()\
-• Map
+• lower_bound() and upper_bound()
+
+## Day-06
+
+• Lerned about Map and Multimap\
+• Map\
+• Count Smaller Element\
+•Union of Array \
+• Cyclically Rotate\
+• Second Largest\
+• Rotate array\
+• Sum Contiguous Subarray\
+• Sqrt Function
+
 
 
 
