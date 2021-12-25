@@ -3,7 +3,7 @@
 
 
 
-
+//Solution for Union of Array
 
  int doUnion(int a[], int n, int b[], int m)  {
         //code here
@@ -18,3 +18,6 @@
      
      return v.size();
     }
+
+
+
