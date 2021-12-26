@@ -8,7 +8,7 @@
 
  int print2largest(int arr[], int arr_size)
     {
-    	//code here.
+    	/
     	    
     int first=0;
     int second=-1;
