@@ -74,7 +74,7 @@ Table of Contents
 •	Find the Frequency.cpp\
 •	Problem-05(Seggrate pos and neg).cpp\
 •	Sort one array according to another array .cpp\
-•	STL Pair Problem\
+•	STL Pair Problem
 
 ## Day-04
 
@@ -105,6 +105,17 @@ Table of Contents
 • Rotate array\
 • Sum Contiguous Subarray\
 • Sqrt Function
+
+## Day-07
+
+• Lerned about Analysis of Algo\
+• Asymptotic Notation\
+• Best | Average | Worst Case\
+• Precendence of complexity \
+• Calculation of complexity \
+• Loop's complexity \
+• Recursion complexity 
+
 
 
 
