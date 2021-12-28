@@ -55,18 +55,13 @@ Table of Contents
 ## DAY-02
 
 •	Today I have solved 3 problems of DSA-Busted of 450 Questions.
-
 •	Problem 1: Find the maximum and minimum element in an array
-
 •	Problem 2: Kth Smallest Element
-
 •	Problem 3: (Sort 0s,1s,2s)
-
 •	I learned about the DNF Algorithm  
-
 •	Max and Min Heap and how to define and implement heap using priority queue.
-
 •	Also, I learned about the widely used STL function like sort,reverse,size,length.
+
 
 ## DAY-03
 
@@ -76,12 +71,14 @@ Table of Contents
 •	Sort one array according to another array .cpp\
 •	STL Pair Problem
 
+
 ## Day-04
 
 • Lerned about STL\
 •	Learned about containers, algorithms.\
 •	Simple container(Pair) ,declarations,definition and its function\
 •	Vector and its advantages,declaration,definition, functions
+
 
 ## Day-05
 
@@ -118,7 +115,6 @@ Table of Contents
 • Max Subarray.cpp\
 • Minimize the Heights \
 • Find the Duplicate Number\
-• Merge Without Extra Space 
 
 ## Day-08
 
@@ -126,7 +122,7 @@ Table of Contents
 • Next Permutation\
 • Count Max Pair Sum\
 • Merge Interval\
-• Count Inversion
+
 
 
 
