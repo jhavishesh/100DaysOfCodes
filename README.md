@@ -114,7 +114,7 @@ Table of Contents
 • Recursion complexity\
 • Max Subarray.cpp\
 • Minimize the Heights \
-• Find the Duplicate Number\
+• Find the Duplicate Number
 
 ## Day-08
 
