@@ -118,7 +118,18 @@ Table of Contents
 • Max Subarray.cpp\
 • Minimize the Heights \
 • Find the Duplicate Number\
-• erge Without Extra Space
+• Merge Without Extra Space 
+
+## Day-08
+
+• Best Time to Buy and Sell Stock\
+• Next Permutation\
+• Count Max Pair Sum\
+• Merge Interval\
+• Count Inversion
+
+
+
 
 
 
