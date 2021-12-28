@@ -121,7 +121,7 @@ Table of Contents
 • Best Time to Buy and Sell Stock\
 • Next Permutation\
 • Count Max Pair Sum\
-• Merge Interval\
+• Merge Interval
 
 
 
