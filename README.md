@@ -114,7 +114,11 @@ Table of Contents
 • Precendence of complexity \
 • Calculation of complexity \
 • Loop's complexity \
-• Recursion complexity 
+• Recursion complexity\
+• Max Subarray.cpp\
+• Minimize the Heights \
+• Find the Duplicate Number\
+• erge Without Extra Space
 
 
 
