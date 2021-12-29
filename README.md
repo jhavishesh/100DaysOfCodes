@@ -123,6 +123,10 @@ Table of Contents
 • Count Max Pair Sum\
 • Merge Interval
 
+## Day-09
+
+• Count Common Elements\
+• Arrange alternate pos & neg elements
 
 
 
