@@ -128,6 +128,15 @@ Table of Contents
 • Count Common Elements\
 • Arrange alternate pos & neg elements
 
+## Day-10
+
+• Factorial of Large Number\
+• Maximum Product Subarray\
+• Majority Element \
+• Subarray Zero Sum
+
+
+
 
 
 
