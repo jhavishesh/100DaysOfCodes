@@ -133,7 +133,9 @@ Table of Contents
 • Factorial of Large Number\
 • Maximum Product Subarray\
 • Majority Element \
-• Subarray Zero Sum 
+• Subarray Zero Sum \
+• Longest consecutive subsequence
+
 
 
 
