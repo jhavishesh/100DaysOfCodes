@@ -2,8 +2,11 @@
 
 
 
-// Naive Sol: O(Nlogn)+O(N)
+// Naive Sol: O(Nlogn)+O(N
 
+int findLongestConseqSubseq(int arr[], int N)
+{
+      
 sort(arr, arr+N);
         
 	int ctr = 1, maxi = 0;
@@ -20,6 +23,10 @@ sort(arr, arr+N);
 
 //Optimal Sol: O(N)+O(N)+O(N)=O(3N).
 
+
+int findLongestConseqSubseq(int arr[], int N)
+ {
+      
  set <int> hashset;      //insertation & traversal is easy
       for(int i=0;i<N;i++)
       {
