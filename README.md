@@ -144,6 +144,17 @@ Table of Contents
 • Triplet Sum
 
 
+## Day-12
+
+• Chocolate Distribution Problem\
+• Find the Median of Array\
+• Palindromic Array\
+• Three way partitioning
+
+
+
+
+
 
 
 
