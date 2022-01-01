@@ -136,6 +136,13 @@ Table of Contents
 • Subarray Zero Sum \
 • Longest consecutive subsequence
 
+## Day-11
+
+• Array subset of another Array\
+• Count More than k Occurences\
+• Trapping Rain Water\
+• Triplet Sum
+
 
 
 
