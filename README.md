@@ -151,6 +151,17 @@ Table of Contents
 • Palindromic Array\
 • Three way partitioning
 
+## Day-13
+
+• Minimum number of jumps\
+• Minimum swaps and K together\
+• Sliding Window Technique \
+• Revision of Array's Questions
+
+
+
+
+
 
 
 
