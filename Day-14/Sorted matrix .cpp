@@ -16,12 +16,12 @@ vector<vector<int>> sortedMatrix(int N, vector<vector<int>> Mat) {
        
        sort(v.begin(),v.end()); //sort the elememts
        
-       int k=0;
+       int index=0;
         
        for(int i=0;i<N;i++){
            for(int j=0;j<N;j++){
                
-            Mat[i][j]=v[k];  //again push_back of vector in Matrix
+            Mat[i][j]=v[index];  //again push_back of vector in Matrix here index will be run till N*N times
             k++;
            }
        }
