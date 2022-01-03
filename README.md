@@ -158,6 +158,13 @@ Table of Contents
 • Sliding Window Technique \
 • Revision of Array's Questions
 
+## Day-14
+
+• Row with max 1s\
+• Search in a matrix \
+• Sorted Matrix \
+• Spiral traversal matrix
+
 
 
 
