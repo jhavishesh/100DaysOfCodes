@@ -44,8 +44,8 @@ bool searchMatrix(vector<vector<int>>& matrix, int target) {
                 return true;
             }
                 
-             if(matrix[mid/m][mid%m]<target){   here we find the imaginary index through [mid/m][mid%m]
-                 low=mid+1;      //if the target value is greatar than img idx value than we shift to downward
+             if(matrix[mid/m][mid%m]<target){  // here we find the imaginary index through [mid/m][mid%m]
+                 low=mid+1;                   //if the target value is greatar than img idx value than we shift to downward
              }
                 
             else
