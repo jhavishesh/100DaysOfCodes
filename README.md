@@ -165,9 +165,14 @@ Table of Contents
 • Sorted Matrix \
 • Spiral traversal matrix
 
+## Day-15 (#6Companies30DaysOfCodes Challenge)
 
-
-
+## Goldman Sachs
+• Print Anagrams Together\
+• Overlapping rectangles\
+• Run Length Encoding\
+• Greatest Common Divisior of String\
+• Ugly Number
 
 
 
