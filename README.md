@@ -174,6 +174,18 @@ Table of Contents
 • Greatest Common Divisior of String\
 • Ugly Number
 
+## Day-16 
+
+• Find the position of M-th item\
+• Count the subarrays having product less than k\
+• Total Decoding Messages\
+• Number following a pattern\
+• Minimum Size Subarray Sum\
+• Array Pair Sum Divisibility\
+• Find Missing And Repeating\
+• Decode the string
+
+
 
 
 
