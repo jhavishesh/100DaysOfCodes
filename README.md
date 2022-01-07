@@ -185,6 +185,13 @@ Table of Contents
 • Find Missing And Repeating\
 • Decode the string
 
+## Day-17
+
+• Longest Mountain in Array \
+• IPL 2021 - Match Day 2\
+• First non-repeating character\
+• Brackets in Matrix Chain Multiplication
+
 
 
 
