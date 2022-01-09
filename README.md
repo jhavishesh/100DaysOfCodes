@@ -192,6 +192,23 @@ Table of Contents
 • First non-repeating character\
 • Brackets in Matrix Chain Multiplication
 
+## Day-18
+
+• Practice of 10Qs of Array \
+• Practice of 5Qs of Goldman Sachs\
+• Count ways to N'th Stair
+
+## Day-19
+
+• Leetcode Weekly 275 Contest \
+• Check if Every Row and Column Contains All Numbers\
+• Minimum Swaps to Group All 1's Together II\
+• Practice of 5Qs of Array
+
+
+
+
+
 
 
 
