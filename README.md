@@ -200,7 +200,7 @@ Table of Contents
 
 ## Day-19
 
-• Leetcode Weekly 275 Contest \
+• Leetcode Weekly 275 Contest\
 • Check if Every Row and Column Contains All Numbers\
 • Minimum Swaps to Group All 1's Together II\
 • Practice of 5Qs of Array
