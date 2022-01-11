@@ -185,7 +185,9 @@ Table of Contents
 • Find Missing And Repeating\
 • Decode the string
 
-## Day-17
+## Day-17 
+
+## Amazon
 
 • Longest Mountain in Array \
 • IPL 2021 - Match Day 2\
@@ -202,8 +204,18 @@ Table of Contents
 
 • Leetcode Weekly 275 Contest\
 • Check if Every Row and Column Contains All Numbers\
-• Minimum Swaps to Group All 1's Together II\
-• Practice of 5Qs of Array
+• Phone directory\
+• Practice of 5Qs of Array\
+• Is Sudoku Valid
+ 
+
+## Day-20
+
+•Nuts and Bolts Problem\
+•Serialize and Deserialize a Binary Tree \
+•Column name from a given column number\
+•Rotting Oranges
+
 
 
 
