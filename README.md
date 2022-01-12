@@ -216,6 +216,20 @@ Table of Contents
 •Column name from a given column number\
 •Rotting Oranges
 
+## Day-21
+
+•Kth element in Matrix\
+•Rotate a 2D array without using extra space\
+•Square Root of Number\
+•Two Sum
+
+## Day-22
+
+•Possible Words From Phone Digits\
+•Stickler Thief\
+•Stock span problem\
+•Unit Area of largest region of 1's
+
 
 
 
