@@ -230,6 +230,16 @@ Table of Contents
 •Stock span problem\
 •Unit Area of largest region of 1's
 
+## Day-23
+
+•Palindrome String\
+•Print All Duplicate Element\
+•Reverse String\
+•Why String are Immutable
+
+
+
+
 
 
 
