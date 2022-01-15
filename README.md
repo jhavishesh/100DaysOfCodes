@@ -237,6 +237,13 @@ Table of Contents
 •Reverse String\
 •Why String are Immutable
 
+## Day-24
+
+•Check if string are rotation or not\
+•Count and Say\
+•Practice of Matrix and Array problems
+
+
 
 
 
