@@ -243,6 +243,13 @@ Table of Contents
 •Count and Say\
 •Practice of Matrix and Array problems
 
+## Day-25
+
+•Generate Binary Numbers\
+•Minimum steps to destination\
+•Bridge edge in a graph \
+•Connect Nodes at Same Level
+
 
 
 
