@@ -254,7 +254,25 @@ Table of Contents
 
 •Divide a String Into Groups of Size k\
 •Minimum Moves to Reach Target Score\
-•Practice of String and Matrix problems\
+•Practice of String and Matrix problems
+
+## Day-27
+
+•Longest Arithmetic Progression\
+•Pots of Gold Game\
+•Implement Atoi
+
+## Day-28
+
+•Codechef Long Challenge\
+•Given 1st contest and secured 2⭐Rating \
+•Find All Four Sum Numbers\
+•TCS Examinations(Challenge's Problem)
+
+
+
+
+
 
 
 
