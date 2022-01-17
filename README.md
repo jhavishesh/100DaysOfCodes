@@ -250,6 +250,15 @@ Table of Contents
 •Bridge edge in a graph \
 •Connect Nodes at Same Level
 
+## Day-26
+
+•Divide a String Into Groups of Size k\
+•Minimum Moves to Reach Target Score\
+•Practice of String and Matrix problems\
+
+
+
+
 
 
 
