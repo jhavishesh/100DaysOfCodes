@@ -269,6 +269,18 @@ Table of Contents
 •Find All Four Sum Numbers\
 •TCS Examinations(Challenge's Problem)
 
+## Day-29
+
+•Check for Anagram\
+•Check if a String is Subsequence of Other \
+•Practice of Previously Solved problems
+
+## Day-30
+
+•Naive Pattern Searching\
+•Improved Pattern Searching for Distinct\
+•Practice of Previously Solved problems
+
 
 
 
