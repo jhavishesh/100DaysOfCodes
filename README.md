@@ -281,6 +281,12 @@ Table of Contents
 •Improved Pattern Searching for Distinct\
 •Practice of Previously Solved problems
 
+## Day-31
+
+•Next Permutation(Variant)\
+•Parenthesis Checker\
+•Reverse of Word Individually
+
 
 
 
