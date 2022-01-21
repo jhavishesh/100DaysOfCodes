@@ -287,6 +287,12 @@ Table of Contents
 •Parenthesis Checker\
 •Reverse of Word Individually
 
+## Day-32
+
+•Roman Number to Integer\
+•Second most repeated string in a sequence\
+•String to equi mobile num keypad sequence
+
 
 
 
