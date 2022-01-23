@@ -293,6 +293,27 @@ Table of Contents
 •Second most repeated string in a sequence\
 •String to equi mobile num keypad sequence
 
+## Day-33
+
+•Count Pair Sum GFG version\
+•Intersection of Two Arrays II\
+•Merge Sorted Array\
+•Missing Number\
+•Search Insert Position
+
+## Day-34
+
+• Leetcode Challenge P1\
+• Leetcode Challenge P2\
+• Leetcode challenge P3\
+• January CookoFF 2022 P1\
+• January CookoFF 2022 P2\
+• January CookoFF 2022 P3\
+• January CookoFF 2022 P4
+
+
+
+
 
 
 
