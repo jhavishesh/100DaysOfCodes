@@ -311,6 +311,17 @@ Table of Contents
 • January CookoFF 2022 P3\
 • January CookoFF 2022 P4
 
+## Day-35
+
+• Find the missing no in string \
+• Minimum sum partition \
+• Due to my health issue I wasn't feel good that I can maintain my streak of 34 but after this it will never happen again till my end of this journey.
+
+## Day-35
+
+• Learned about Operating System Part-01 \
+• Practice Question on various websites\
+
 
 
 
