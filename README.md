@@ -320,7 +320,7 @@ Table of Contents
 ## Day-35
 
 • Learned about Operating System Part-01 \
-• Practice Question on various websites\
+• Practice Question on various websites
 
 
 
