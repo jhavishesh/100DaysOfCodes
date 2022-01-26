@@ -317,11 +317,18 @@ Table of Contents
 • Minimum sum partition \
 • Due to my health issue I wasn't feel good that I can maintain my streak of 34 but after this it will never happen again till my end of this journey.
 
-## Day-35
+## Day-36
 
 • Learned about Operating System Part-01 \
 • Practice Question on various websites
 
+
+## Day-37
+
+•CodeChef Starters 23 P1\
+•CodeChef Starters 23 P2\
+•CodeChef Starters 23 P3
+•OS Handwritten Notes
 
 
 
