@@ -330,6 +330,12 @@ Table of Contents
 •CodeChef Starters 23 P3\
 •OS Handwritten Notes
 
+## Day-38
+
+•Find the missing no in string\
+•Largest number in K swaps\
+•Split Array Largest Sum
+
 
 
 
