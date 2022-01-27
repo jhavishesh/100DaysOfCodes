@@ -319,7 +319,7 @@ Table of Contents
 
 ## Day-36
 
-• Learned about Operating System Part-01 \
+• Learned about Operating System Part-01\
 • Practice Question on various websites
 
 
