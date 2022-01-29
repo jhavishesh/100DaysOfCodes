@@ -336,6 +336,14 @@ Table of Contents
 •Largest number in K swaps\
 •Split Array Largest Sum
 
+## Day-39
+
+•Computer Network Par-01\
+•OSI MODEL\
+•TCP/IP MODEL\
+•Topology\
+•Network Devices\
+
 
 
 
