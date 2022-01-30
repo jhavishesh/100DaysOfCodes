@@ -342,7 +342,22 @@ Table of Contents
 •OSI MODEL\
 •TCP/IP MODEL\
 •Topology\
-•Network Devices\
+•Network Devices
+
+## Day-40
+
+•January Lunchtime P1\
+•January Lunchtime P2\
+•January Lunchtime P3\
+•January Lunchtime P4\
+•Secured 1118 rank out of 12k
+
+## Day-41
+
+•SQL Cheatsheet\
+•Practice Questions on SQL
+
+
 
 
 
