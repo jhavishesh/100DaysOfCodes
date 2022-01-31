@@ -315,7 +315,7 @@ Table of Contents
 
 • Find the missing no in string \
 • Minimum sum partition \
-• Due to my health issue I wasn't feel good that I can maintain my streak of 34 but after this it will never happen again till my end of this journey.
+• Due to my health issue I wasn't feel good that I can maintain my streak of 34 but after this it will never happen again till my end of this journey
 
 ## Day-36
 
