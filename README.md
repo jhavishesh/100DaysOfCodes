@@ -357,6 +357,10 @@ Table of Contents
 •SQL Cheatsheet\
 •Practice Questions on SQL
 
+## Day-42
+
+•Find the Largest Mountain\
+
 
 
 
