@@ -359,14 +359,39 @@ Table of Contents
 
 ## Day-42
 
-•Find the Largest Mountain\
+•Find the Largest Mountain
 
 
 ## Day-43
 
 •Codechef Starters 24 P1\
 •Codechef Starters 24 P2\
-•Codechef Starters 24 P3\
+•Codechef Starters 24 P3
+
+## Day-44
+
+•Codechef Feb Long Challenge P1\
+•Codechef Feb Long Challenge P2
+
+## Day-45
+
+•Codechef Feb Long Challenge P3\
+•Codechef Feb Long Challenge P4
+
+
+## Day-46
+
+•Leetcode Biweekly P1\
+•Leetcode Biweekly P2
+
+
+## Day-47
+
+•Factorial Using Recursion\
+•Natural Number Sum\
+•Print N to 1 and 1 to N\
+•Secured 3 ⭐ @ Codechef \
+•Secured 103 rank out of 18k participants
 
 
 
