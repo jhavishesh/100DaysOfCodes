@@ -393,6 +393,21 @@ Table of Contents
 •Secured 3 ⭐ @ Codechef \
 •Secured 103 rank out of 18k participants
 
+## Day-48
+
+•CodeChef Starters 25 P1\
+•CodeChef Starters 25 P2\
+•CodeChef Starters 25 P3\
+•CodeChef Starters 25 P4
+
+## Day-49
+
+•0-1 Knapsack Problem\
+•Subset Sum Problem
+
+
+
+
 
 
 
