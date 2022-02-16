@@ -405,6 +405,17 @@ Table of Contents
 •0-1 Knapsack Problem\
 •Subset Sum Problem
 
+## Day-50
+
+•Codechef Feb long Challenge -01\
+•Codechef Feb long Challenge -02\
+•Rat in Maze Backtracking -01\
+
+## Day-51
+
+•Equal Sum Partition\
+
+
 
 
 
