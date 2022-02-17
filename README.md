@@ -413,7 +413,7 @@ Table of Contents
 
 ## Day-51
 
-•Equal Sum Partition\
+•Equal Sum Partition
 
 
 
