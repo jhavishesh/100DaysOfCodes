@@ -409,12 +409,67 @@ Table of Contents
 
 •Codechef Feb long Challenge -01\
 •Codechef Feb long Challenge -02\
-•Rat in Maze Backtracking -01\
+•Rat in Maze Backtracking -01
 
 ## Day-51
 
 •Equal Sum Partition
 
+## Day-52
+
+•Capacity To Ship\
+•Number_of_Boomerangs\
+•Pacific Atlantic WaterFlow
+
+
+## Day-53
+
+•Number_of_Provinces\
+•Construct_Quad_Tree\
+•Course_Schedule_II
+
+
+## Day-54
+
+•Minimum_Swaps_to_Arrange_a_BinaryGrid\
+•As_Far_from_Land_as_Possible
+
+## Day-55
+
+•Koko_Eating_Bananas\
+•Path_with_Maximum_Probability
+
+
+## Day-56
+
+•Stone_Game\
+•Remove Colored Pieces\
+•Number_of_UniquePaths
+
+## Day-57
+
+•Transform_to_Sum_Tree\
+•Power_Of_Numbers\
+•Sorted_subsequence_of_size_3
+
+## Day-58
+
+•Maximum_Height_Tree\
+•Guess_Number_HigherorLower_II
+
+
+## Day-59
+
+•Generate_Random_Point_in_a_Circle\
+•Maximum_Performance_of_a_Team
+
+
+## Day-60
+
+•Find_Array_Given_Subset_Sums\
+•Find_the_Kth_Largest_Integer_in_the_Array\
+•Largest_number_in_K_swaps\
+•Divide_Two_Integers
 
 
 
