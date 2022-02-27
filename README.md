@@ -481,6 +481,28 @@ Table of Contents
 
 •Lucky Number(Microsoft Special)
 
+## Day-63
+
+•Longest Common Subsequence
+
+## Day-64
+
+•Matrix Chain Multiplication
+
+## Day-65
+
+•Lazy Salesman\
+•The product mystery
+
+## Day-66
+
+•Distinct Binary Strings\
+•Preorder Traversal\
+•Inorder Traversal\
+•Postorder Traversal
+
+
+
 
 
 
