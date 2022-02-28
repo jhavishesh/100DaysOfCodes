@@ -492,7 +492,7 @@ Table of Contents
 ## Day-65
 
 •Lazy Salesman\
-•The product mystery
+•The Product mystery
 
 ## Day-66
 
@@ -500,6 +500,7 @@ Table of Contents
 •Preorder Traversal\
 •Inorder Traversal\
 •Postorder Traversal
+
 
 ![image](https://user-images.githubusercontent.com/61939693/155893307-2f7e82dc-5656-4ba1-b5cb-c5ea6d805722.png)
 
