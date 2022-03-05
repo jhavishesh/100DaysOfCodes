@@ -311,11 +311,17 @@ Table of Contents
 • January CookoFF 2022 P3\
 • January CookoFF 2022 P4
 
+# ![image](https://user-images.githubusercontent.com/61939693/155893307-2f7e82dc-5656-4ba1-b5cb-c5ea6d805722.png)
+
+## I was so sick 🤒that I can't able to move from bed due to this my streak got broke on 24 Jan but I didn't give up 🙌 and started from 25th Jan 🤞 with the same enthusiasm as I started on 21 Jan 😎.
+
+
+
 ## Day-35
 
 • Find the missing no in string \
-• Minimum sum partition \
-• Due to my health issue I wasn't feel good that I can maintain my streak of 34 but after this it will never happen again till my end of this journey
+• Minimum sum partition 
+
 
 ## Day-36
 
@@ -505,6 +511,41 @@ Table of Contents
 ![image](https://user-images.githubusercontent.com/61939693/155893307-2f7e82dc-5656-4ba1-b5cb-c5ea6d805722.png)
 
 ## Day-67
+
+•Coin Change Problem
+
+
+## Day-68
+
+•Edit Distance Problem
+
+
+## Day-69
+
+•Egg Dropping[Interview Special]
+
+
+## Day-70
+
+•Palindromic patitioning
+
+## Day-71
+
+•Reverse a linked list\
+•Remove duplicate element from sorted Linked List
+
+## Day-72
+
+•Height of Binary Tree
+•K distance from root 
+
+## Day-73
+
+•Rat in Maze[GeeksforGeeks]
+
+## Day-74
+
+•Sudoku Solver[Backtracking
 
 
 
