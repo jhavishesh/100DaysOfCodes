@@ -543,7 +543,7 @@ Table of Contents
 
 ## Day-74
 
-•Sudoku Solver[Backtracking
+•Sudoku Solver[Backtracking]
 
 
 
