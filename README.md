@@ -551,10 +551,21 @@ Table of Contents
 
 ## Day-76
 
-
-
+•Peak Element\
+•Rotate Array by k place
 
 ## Day-77
+
+•Bomb The Base\
+•Fill the Bucket\
+•Tyre Problem
+
+## Day-78
+
+•Code India Code Final Round
+
+
+
 
 
 
