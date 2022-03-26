@@ -7,11 +7,11 @@ int getMiddle(Node *head)
     {
         Node *slow=head,*fast=head;
         
-        while(fast!=NULL && fast->next!=NULL)
+        while(fast and fast->next)
         {
             slow=slow->next;
             fast=fast->next->next;
             
         }
-        return slow->data;
+        return slow->data; //return mid of LL
     }
