@@ -39,7 +39,7 @@ int main() {
 //I am trying my best to become a good problem solver and codechef is very good platform where I can enchance my coding skills 
 
 
- 
+
 
 //This is my orginal content
 
