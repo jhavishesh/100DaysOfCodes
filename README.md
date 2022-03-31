@@ -124,7 +124,7 @@ Table of Contents
 • Merge Interval
 
 ## Day-09
-]
+
 • Count Common Elements\
 • Arrange alternate pos & neg elements
 
@@ -562,28 +562,146 @@ Table of Contents
 
 ## Day-78
 
-
 •Code India Code Final Round
 
-
 ## Day-79
+
+•Closest String
 
 
 ## Day-80
 
+•Convert String\
+•Encode the Message
+
+
 ## Day-81
 
+•Remove Vowels
+
 ## Day-82
+
+•CodeKaze Final Round
+
+![image](https://user-images.githubusercontent.com/61939693/160992263-6ba59c38-c227-41f5-9e1c-964603985956.png)
+
 
 
 ## Day-83
 
+•Nagarro Coding Round-01 Factorial of Number\
+•Nagarro Coding Round-01 Number of Selective Arrangement\
+•Nagarro Coding Round-01 Remove a given word from a String
+
 
 ## Day-84
 
+•Prime or Not\
+•Nth Prime\
+•Prime in Range
+
+
 ## Day-85
 
+•Binary Search Algo\
+•Count Dearrangements
+
+## Day-86
+
+•Remove Duplicate Char from String\
+•Run Length Encoding
+
 ## Day-87
+
+•Bubble Sort\
+•Selection Sort\
+
+## Day-88
+
+•Detect Loop in linked list\
+•Middle of LinkedList
+
+## Day-89
+
+•HCF and LCM of Number\
+•Reverse of LinkedList
+
+## Day-90
+
+•Google Kickstart Round A P1\
+•Google Kickstart Round A P2\
+•Google Kickstart Round A P3\
+•HCF of N Number
+
+## Day-91
+
+•Job A Thon 7\
+•Job-A-Thon 7 Hiring Challenge P1\
+•Job-A-Thon 7 Hiring Challenge P2
+
+![image](https://user-images.githubusercontent.com/61939693/160992475-244bd412-a7b9-467a-9698-fcee63fc7516.png)
+
+
+## Day-92
+
+•Binarycost\
+•FindShoes\
+•Flipsort\
+•Maximize the Minimum\
+•Training Plans
+
+## Day-93
+
+•Counting Bits\
+•Is Subsequence
+
+## Day-94
+
+•Arithmetic Slices\
+•Champagne Tower
+
+## Day-95
+
+•Count All Valid Pickup and Delivery Options\
+•Delete and Earn
+
+## Day-96
+
+•Linked List Cycle\
+•Merge Two Sorted LinkedLists
+
+## Day-97
+
+•Minimum Remove to Make Valid Parentheses\
+•Remove Duplicates from Sorted List II
+
+## Day-98
+
+•Simplify Path\
+•Validate Stack Sequences
+
+
+## Day-99
+
+•Partition Label\
+•Score of Parentheses\
+•Two City Scheduling
+
+## Final DAY-100
+
+•Maximum Frequency Stack\
+•Minimum Domino Rotations For Equal Row\
+•Remove Duplicate Letters\
+•The K Weakest Rows in a Matrix
+
+
+## The Journey Started on the 21st of Dec 2021 and the 100DaysofCode is completed on 31st March 2022.
+
+![Screenshot (2134)](https://user-images.githubusercontent.com/61939693/160993203-d47d5108-07c0-471e-a79f-773d963564fd.png)
+
+
+
+
 
 
 
